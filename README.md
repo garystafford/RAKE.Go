@@ -32,37 +32,34 @@ func main() {
 	fmt.Printf("\nsize: %d\n", len(candidates))
 }
 
-<!---------------------------------------------------------->
-<!--output-->
-<!---------------------------------------------------------->
-<!--objectively valid statement --> 9.000000-->
-<!--exclusively matters --> 4.000000-->
-<!--arbitrary preference --> 4.000000-->
-<!--easy prey --> 4.000000-->
-<!--relativistic position --> 4.000000-->
-<!--human autonomy --> 4.000000-->
-<!--relativism makes --> 4.000000-->
-<!--growing doubt --> 4.000000-->
-<!--moral confusion --> 4.000000-->
-<!--ethical norms --> 3.500000-->
-<!--norms --> 1.500000-->
-<!--made --> 1.000000-->
-<!--guidance --> 1.000000-->
-<!--man --> 1.000000-->
-<!--result --> 1.000000-->
-<!--systems --> 1.000000-->
-<!--values --> 1.000000-->
-<!--realm --> 1.000000-->
-<!--live --> 1.000000-->
-<!--judgements --> 1.000000-->
-<!--reason --> 1.000000-->
-<!--left --> 1.000000-->
-<!--proposes --> 1.000000-->
-<!--irrational --> 1.000000-->
-<!--created --> 1.000000-->
-<!--acceptance --> 1.000000-->
-<!--revelation --> 1.000000-->
-<!--state --> 1.000000-->
+objectively valid statement --> 9.000000
+moral confusion --> 4.000000
+exclusively matters --> 4.000000
+growing doubt --> 4.000000
+relativistic position --> 4.000000
+easy prey --> 4.000000
+human autonomy --> 4.000000
+relativism makes --> 4.000000
+arbitrary preference --> 4.000000
+ethical norms --> 3.500000
+norms --> 1.500000
+realm --> 1.000000
+reason --> 1.000000
+proposes --> 1.000000
+made --> 1.000000
+guidance --> 1.000000
+left --> 1.000000
+judgements --> 1.000000
+live --> 1.000000
+values --> 1.000000
+systems --> 1.000000
+revelation --> 1.000000
+result --> 1.000000
+acceptance --> 1.000000
+irrational --> 1.000000
+state --> 1.000000
+man --> 1.000000
+created --> 1.000000
 
-<!--size: 28-->
+size: 28
 ```
