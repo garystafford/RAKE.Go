@@ -14,7 +14,7 @@ The source code is released under the MIT License.
 package main
 
 import (
-	"github.com/Obaied/goRAKE"
+	rake "github.com/garystafford/RAKE.go"
 	"fmt"
 )
 
