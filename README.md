@@ -1,4 +1,4 @@
-Fixed copy of afjoseph/RAKE.Go_
+_Forked and fixed copy of `afjoseph/RAKE.Go`_
 
 A Go implementation of the Rapid Automatic Keyword Extraction (RAKE) algorithm as described in: Rose, S., Engel, D., Cramer, N., & Cowley, W. (2010). Automatic Keyword Extraction from Individual Documents. In M. W. Berry & J. Kogan (Eds.), Text Mining: Theory and Applications: John Wiley & Sons.
 
