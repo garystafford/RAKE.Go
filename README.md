@@ -1,4 +1,4 @@
-# RACK.Go
+# RAKE.Go
 
 _Forked and fixed copy of `afjoseph/RAKE.Go`_
 
